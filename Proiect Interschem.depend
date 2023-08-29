@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610447773 source:c:\users\robert\desktop\proiect interschem\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<math.h>
+	<winbgim.h>
+	<fstream>
+	<cstring>
+
